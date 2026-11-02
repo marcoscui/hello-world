@@ -1,0 +1,15 @@
+CORRECCIÓN — PRÁCTICA 0-A: HELLO WORLD
+
+Resultado: Flujo básico completado correctamente 😀
+
+Has creado una rama, modificado el README y fusionado
+los cambios en main mediante una pull request.
+
+Como mejoras:
+- Conserva el encabezado # hello-world y escribe tu
+  presentación debajo.
+- Amplía un poco la presentación.
+- Añade una descripción a la pull request explicando
+  qué has cambiado y por qué.
+
+Buen trabajo: el flujo de esta primera práctica está realizado.
